@@ -1,0 +1,45 @@
+@font-face {
+    font-family: fontbold;
+    src: url(typobold.ttf);
+}
+@font-face {
+    font-family: fontlight;
+    src: url(typolight.ttf);
+}
+@font-face {
+    font-family: fontsemiBight;
+    src: url(typosemiBold.ttf);
+}
+
+
+
+.text_logo {
+    font-family: fontsemiBight;
+}
+
+
+.btn_conn{
+    font-family: fontbold;
+}
+.btn_conn1{
+    font-family: fontbold;
+}
+.textmenu_position{
+
+	 font-family: fontsemiBight;
+}
+.boxtitle{
+    font-family: fontlight;
+}
+.paragraphe{
+    font-family: fontlight;
+}
+.maintfont{
+    font-family: fontbold;
+    text-align: center;
+    color:white;
+}
+.lien_sup{
+    font-family: fontsemiBight;
+    
+}
